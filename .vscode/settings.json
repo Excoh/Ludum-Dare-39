@@ -51,6 +51,16 @@
         "Obj/":true,
         "ProjectSettings/":true,
         "temp/":true,
-        "Temp/":true
+        "Temp/":true,
+        "**/Library": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true,
+        "**/Images": true,
+        "**/Materials": true,
+        "**/Prefabs": true,
+        "**/Scenes": true,
+        "*Test*/": true,
+        "**/Editor": true,
+        "**/Models": true
     }
 }
